@@ -1,5 +1,7 @@
 # Facebook Comments Scraper — Apify Actor usage guide
 
+[![Run for free on Apify](https://img.shields.io/badge/Apify-Run%20it%20free%20%E2%80%94%20%245%2Fmo%20credit-24C1E0)](https://console.apify.com/sign-up?fpr=aupara)
+
 Extract comments from any public Facebook post, reel, or video. Get comment text, date, author name, profile link, reaction count, and reply count. Configure output fields, filter by date, sort results. Export as JSON, CSV, or Excel.
 
 > **This repository does not contain the Actor's source code.** The Actor
